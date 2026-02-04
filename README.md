@@ -1,3 +1,8 @@
+# Схема данных
+![схема данных](./diagram.png)
+
+# ```sql файлы лежат по пути "app/sql"```
+
 # 1.Клонировать репозиторий:
 ```
 git clone https://github.com/DmitryKireev69/test_task_aiti_guru.git
